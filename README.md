@@ -2,7 +2,7 @@
 # Challenge Verkio
 
 ## Usage
-* Clone the repo via `git clone {REPOSITORY_URL}`
+* Clone the repo via `git clone https://github.com/evokelektrique/challenge-verkio`
 * Create database and its migrations via `php artians migrate`
 * Seed the tables via `php artisan db:seed --class UserSeeder` to create default users
 * Login with the following credentials:
