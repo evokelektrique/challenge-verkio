@@ -2,6 +2,8 @@
 # Challenge Verkio
 
 ## Usage
+* Install php packages via `composer i`
+* Install NodeJS packages vie `npm i`
 * Clone the repo via `git clone https://github.com/evokelektrique/challenge-verkio`
 * Create database and its migrations via `php artians migrate`
 * Seed the tables via `php artisan db:seed --class UserSeeder` to create default users
